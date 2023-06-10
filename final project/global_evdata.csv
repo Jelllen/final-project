@@ -1,0 +1,16 @@
+﻿region,category,parameter,mode,powertrain,year,unit,sales
+World,Historical,EV sales,Cars,EV,2010,Vehicles,7570
+World,Historical,EV sales,Cars,EV,2011,Vehicles,48000
+World,Historical,EV sales,Cars,EV,2012,Vehicles,118000
+World,Historical,EV sales,Cars,EV,2013,Vehicles,201000
+World,Historical,EV sales,Cars,EV,2014,Vehicles,330000
+World,Historical,EV sales,Cars,EV,2015,Vehicles,550000
+World,Historical,EV sales,Cars,EV,2016,Vehicles,750000
+World,Historical,EV sales,Cars,EV,2017,Vehicles,1180000
+World,Historical,EV sales,Cars,EV,2018,Vehicles,2050000
+World,Historical,EV sales,Cars,EV,2019,Vehicles,2080000
+World,Historical,EV sales,Cars,EV,2020,Vehicles,2970000
+World,Historical,EV sales,Cars,EV,2021,Vehicles,6500000
+World,Historical,EV sales,Cars,EV,2022,Vehicles,10200000
+World,Projection-APS,EV sales,Cars,EV,2025,Vehicles,20700000
+World,Projection-APS,EV sales,Cars,EV,2030,Vehicles,40400000
